@@ -4,8 +4,8 @@ Chạy server: npm run dev (http://localhost:5000)
 ## Khởi chạy React
 npm run start
 ## Cấu trúc thư mục React
-/node
-/public
+##/node
+##/public
 /src
   /api
     /axiosClient.js - cấu hình mặc định cho axios, gắn accessToken từ local storage lên headers mỗi khi gửi request đi
